@@ -69,9 +69,7 @@ Based on the current trained model:
 
 *(Metrics might vary slightly based on data splits or updates.)*
 
-## Screenshots
-*(Add your screenshots here! Example:)*
-- `student_performance_prediction.png` - Visualizes Actual vs Predicted Final Exam Scores.
+
 
 ## Future Improvements
 - **Advanced Models:** Try Random Forest or Gradient Boosting models for potentially better accuracy.
@@ -140,4 +138,4 @@ Deploy Project
 | IDE | VS Code or Jupyter Notebook |
 | Version Control | Git & GitHub |
 
-This roadmap is suitable for a beginner and follows a complete end-to-end machine learning workflow, from collecting data to deploying a regression model that predicts student performance.
+
